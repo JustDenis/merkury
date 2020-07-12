@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{OPH6:function(e,n,c){},QfWi:function(e,n,c){"use strict";c.r(n);c("OPH6"),c("h36j")},h36j:function(e,n){var c={menuIcon:document.querySelector(".js-burger"),menuOverlay:document.querySelector(".js-overlay"),closeIcon:document.querySelector(".js-close")};c.menuIcon.addEventListener("click",(function(){c.menuOverlay.classList.remove("hidden")})),c.closeIcon.addEventListener("click",(function(){c.menuOverlay.classList.add("hidden")}))}},[["QfWi",1]]]);
+//# sourceMappingURL=main.5ae83b04fa631dc09443.js.map
